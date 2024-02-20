@@ -1,0 +1,76 @@
+{
+	"users-th": [
+		"Name",
+		"Pay",
+		"Role",
+		"Phone"
+	],
+	"user-th-placeholder": {
+		"name": "Enter Name..",
+		"pay": "Enter Pay per hour",
+		"role": "Enter Role",
+		"Phone": "Enter Phone"
+	},
+	"users": {
+		"1": {
+			"name": "amosh",
+			"pay": "9",
+			"role": "cook",
+			"phone": "9282653578"
+		},
+		"2": {
+			"name": "kim",
+			"pay": "9",
+			"role": "cook",
+			"phone": ""
+		},
+		"3": {
+			"name": "jesus",
+			"pay": "9",
+			"role": "cook",
+			"phone": ""
+		},
+		"4": {
+			"name": "rinaldo",
+			"pay": "9",
+			"role": "cook",
+			"phone": ""
+		},
+		"5": {
+			"name": "nedret",
+			"pay": "9",
+			"role": "cook",
+			"phone": ""
+		},
+		"6": {
+			"name": "sheryln",
+			"pay": "9",
+			"role": "cook",
+			"phone": ""
+		},
+		"7": {
+			"name": "judy",
+			"pay": "9",
+			"role": "cook",
+			"phone": ""
+		},
+		"8": {
+			"name": "Zoya",
+			"pay": "10",
+			"role": "",
+			"phone": ""
+		},
+		"9": {
+			"name": "alex",
+			"pay": "10",
+			"role": "",
+			"phone": ""
+		},
+		"10": {
+			"name": "munazzar",
+			"pay": "8.5",
+			"role": "",
+			"phone": ""
+		}
+	}
+}

@@ -1,0 +1,8814 @@
+{
+	"users-th": [
+		"Name",
+		"Pay",
+		"Role",
+		"Phone"
+	],
+	"user-th-placeholder": {
+		"name": "Enter Name..",
+		"pay": "Enter Pay per hour",
+		"role": "Enter Role",
+		"phone": "Enter Phone"
+	},
+	"w-days": {
+		"Mon": "Monday",
+		"Tue": "Tuesday",
+		"Wed": "Wednesday",
+		"Thu": "Thursday",
+		"Fri": "Friday",
+		"Sat": "Saturday",
+		"Sun": "Sunday"
+	},
+	"last-updated": "30-12-2020",
+	"daily-expenses": {
+		"19-06-2020": {
+			"expected": {
+				"Payroll": "288.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2518.28"
+			},
+			"actual": {
+				"Payroll": "288.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2518.28"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"20-06-2020": {
+			"expected": {
+				"Payroll": "331",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2560.78"
+			},
+			"actual": {
+				"Payroll": "331",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2560.78"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "102"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"21-06-2020": {
+			"expected": {
+				"Payroll": "230",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2459.78"
+			},
+			"actual": {
+				"Payroll": "230",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2459.78"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "10",
+					"pay": "85"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"02-06-2020": {
+			"expected": {
+				"Payroll": "270.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2500.28"
+			},
+			"actual": {
+				"Payroll": "270.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2500.28"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"03-06-2020": {
+			"expected": {
+				"Payroll": "287.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2517.28"
+			},
+			"actual": {
+				"Payroll": "287.5",
+				"Chicken": "200",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "1822.41"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"04-06-2020": {
+			"expected": {
+				"Payroll": "312.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2542.28"
+			},
+			"actual": {
+				"Payroll": "312.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2542.28"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"05-06-2020": {
+			"expected": {
+				"Payroll": "288.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2518.28"
+			},
+			"actual": {
+				"Payroll": "288.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2518.28"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"06-06-2020": {
+			"expected": {
+				"Payroll": "331",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2560.78"
+			},
+			"actual": {
+				"Payroll": "331",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2560.78"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "102"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"07-06-2020": {
+			"expected": {
+				"Payroll": "230",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2459.78"
+			},
+			"actual": {
+				"Payroll": "230",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2459.78"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "10",
+					"pay": "85"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"08-06-2020": {
+			"expected": {
+				"Payroll": "207.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2437.28"
+			},
+			"actual": {
+				"Payroll": "207.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2437.28"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "93.5"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"09-06-2020": {
+			"expected": {
+				"Payroll": "270.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2500.28"
+			},
+			"actual": {
+				"Payroll": "270.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2500.28"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"10-06-2020": {
+			"expected": {
+				"Payroll": "287.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2517.28"
+			},
+			"actual": {
+				"Payroll": "287.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2517.28"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"11-06-2020": {
+			"expected": {
+				"Payroll": "312.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2542.28"
+			},
+			"actual": {
+				"Payroll": "312.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2542.28"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"12-06-2020": {
+			"expected": {
+				"Payroll": "288.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2518.28"
+			},
+			"actual": {
+				"Payroll": "288.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2518.28"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"13-06-2020": {
+			"expected": {
+				"Payroll": "331",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2560.78"
+			},
+			"actual": {
+				"Payroll": "331",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2560.78"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "102"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"14-06-2020": {
+			"expected": {
+				"Payroll": "230",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2459.78"
+			},
+			"actual": {
+				"Payroll": "230",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2459.78"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "10",
+					"pay": "85"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"15-06-2020": {
+			"expected": {
+				"Payroll": "207.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2437.28"
+			},
+			"actual": {
+				"Payroll": "207.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2437.28"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "93.5"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"16-06-2020": {
+			"expected": {
+				"Payroll": "270.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2500.28"
+			},
+			"actual": {
+				"Payroll": "270.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2500.28"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"17-06-2020": {
+			"expected": {
+				"Payroll": "287.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2517.28"
+			},
+			"actual": {
+				"Payroll": "287.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2517.28"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"18-06-2020": {
+			"expected": {
+				"Payroll": "312.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2542.28"
+			},
+			"actual": {
+				"Payroll": "312.5",
+				"Chicken": "812.49",
+				"Coke": "61.69",
+				"GORDON": "295.15",
+				"Spice": "196",
+				"Disposables": "109.65",
+				"Rent": "263.33",
+				"CC FEE": "97.64",
+				"Utilities": "40.02",
+				"Misc'": "82.38",
+				"Royalty": "189.05",
+				"CPA": "7.5",
+				"Phones - Internet": "17.73",
+				"Electric": "17.74",
+				"Natural Gas": "4.54",
+				"Paneer": "6.97",
+				"Cassava": "7.33",
+				"Felafel": "6.17",
+				"Organic Drinks": "14.4",
+				"Total": "2542.28"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"kim": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"02-07-2020": {
+			"actual": {
+				"Payroll": "153.5",
+				"chicken": "500",
+				"Coke": "375",
+				"": "0",
+				"Chicken": "225",
+				"GORDON": "210",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "1694.08"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"03-07-2020": {
+			"actual": {
+				"Payroll": "291.5",
+				"Chicken": "252.27",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "844.35"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"04-07-2020": {
+			"actual": {
+				"Payroll": "337",
+				"Chicken": "252.27",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "889.85"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"kim": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"05-07-2020": {
+			"actual": {
+				"Payroll": "235",
+				"Chicken": "252.27",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "787.85"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"06-07-2020": {
+			"actual": {
+				"Payroll": "258",
+				"Chicken": "285.58",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "844.16"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"07-07-2020": {
+			"actual": {
+				"Payroll": "273",
+				"Chicken": "285.58",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "859.16"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"kim": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				}
+			}
+		},
+		"08-07-2020": {
+			"actual": {
+				"Payroll": "17.5",
+				"Chicken": "285.58",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Total": "553.66"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "1",
+					"pay": "8.5"
+				},
+				"munazzar": {
+					"hours": "1",
+					"pay": "9"
+				}
+			}
+		},
+		"09-07-2020": {
+			"actual": {
+				"Payroll": "315.5",
+				"Chicken": "285.58",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Total": "851.66"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"kim": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				}
+			}
+		},
+		"10-07-2020": {
+			"actual": {
+				"Payroll": "237.5",
+				"Chicken": "476.01",
+				"Coke": "70",
+				"Rent": "180.58",
+				"Total": "964.09"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				}
+			}
+		},
+		"01-07-2020": {
+			"actual": {
+				"Chicken": "225",
+				"Coke": "375",
+				"": "0",
+				"GORDON": "210",
+				"Rent": "180.58",
+				"Disposables": "50",
+				"Total": "1040.58"
+			}
+		},
+		"11-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Chicken": "476.01",
+				"Total": "656.59"
+			}
+		},
+		"12-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Chicken": "476.01",
+				"Total": "656.59"
+			}
+		},
+		"13-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Total": "180.58"
+			}
+		},
+		"14-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Total": "180.58"
+			}
+		},
+		"15-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "408",
+				"Total": "588.58"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"16-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "481.5",
+				"Total": "662.08"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"17-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "667.5",
+				"Total": "848.08"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"18-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "534.5",
+				"Total": "715.08"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"19-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "435.5",
+				"Total": "616.08"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"20-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "303.5",
+				"Total": "484.08"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"21-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "392.5",
+				"Total": "573.08"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"22-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "408",
+				"Total": "588.58"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"23-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "481.5",
+				"Total": "662.08"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"24-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "667.5",
+				"Total": "848.08"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"25-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "534.5",
+				"Total": "715.08"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"26-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "435.5",
+				"Total": "616.08"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"27-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "303.5",
+				"Total": "484.08"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"28-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "392.5",
+				"Total": "573.08"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"29-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "408",
+				"Total": "588.58"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"30-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "481.5",
+				"Total": "662.08"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"31-07-2020": {
+			"actual": {
+				"Rent": "180.58",
+				"Payroll": "667.5",
+				"Total": "848.08"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"30-06-2020": {
+			"actual": {
+				"Disposables": "50",
+				"Total": "50"
+			}
+		},
+		"01-08-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"02-08-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"03-08-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"04-08-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"05-08-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"06-08-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"07-08-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"08-08-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"09-08-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"10-08-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"11-08-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"12-08-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"13-08-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"14-08-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"15-08-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"16-08-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"17-08-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"18-08-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"19-08-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"20-08-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"21-08-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"22-08-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"23-08-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"24-08-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"25-08-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"26-08-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"27-08-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"28-08-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"29-08-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"30-08-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"31-08-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"01-09-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"02-09-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"03-09-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"04-09-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"05-09-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"06-09-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"07-09-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"08-09-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"09-09-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"10-09-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"11-09-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"12-09-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"13-09-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"14-09-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"15-09-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"16-09-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"17-09-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"18-09-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"19-09-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"20-09-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"21-09-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"22-09-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"23-09-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Coke": "500",
+				"Total": "908"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"24-09-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"25-09-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"26-09-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"27-09-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"28-09-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"29-09-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"30-09-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"01-10-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"02-10-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"03-10-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"04-10-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"05-10-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"06-10-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"07-10-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"08-10-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"09-10-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"10-10-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"11-10-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"12-10-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"13-10-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"14-10-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"15-10-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"16-10-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"17-10-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"18-10-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"19-10-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"20-10-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"21-10-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"22-10-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"23-10-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"24-10-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"25-10-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"26-10-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"27-10-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"28-10-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"29-10-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"30-10-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"31-10-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"01-11-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"02-11-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"03-11-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"04-11-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"05-11-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"06-11-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"07-11-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"08-11-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"09-11-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"10-11-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"11-11-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"12-11-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"13-11-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"14-11-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"15-11-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"16-11-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"17-11-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"18-11-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"19-11-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"20-11-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"21-11-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"22-11-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"23-11-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"24-11-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"25-11-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"26-11-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"27-11-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				}
+			}
+		},
+		"28-11-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				}
+			}
+		},
+		"29-11-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				}
+			}
+		},
+		"30-11-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				}
+			}
+		},
+		"01-12-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"02-12-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				}
+			}
+		},
+		"03-12-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"04-12-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"05-12-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"06-12-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"07-12-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"08-12-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"09-12-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"10-12-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"11-12-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"12-12-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"13-12-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"14-12-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"15-12-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"16-12-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"17-12-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"18-12-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"19-12-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"20-12-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"21-12-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"22-12-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"23-12-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"24-12-2020": {
+			"actual": {
+				"Payroll": "481.5",
+				"Total": "481.5"
+			},
+			"day": "Thu",
+			"Payroll_details": {
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Nadia": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"25-12-2020": {
+			"actual": {
+				"Payroll": "667.5",
+				"Total": "667.5"
+			},
+			"day": "Fri",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "11.25",
+					"pay": "112.5"
+				},
+				"asus": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"26-12-2020": {
+			"actual": {
+				"Payroll": "534.5",
+				"Total": "534.5"
+			},
+			"day": "Sat",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "6",
+					"pay": "51"
+				},
+				"munazzar": {
+					"hours": "12",
+					"pay": "108"
+				},
+				"Amosh": {
+					"hours": "13.25",
+					"pay": "132.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"elizibith": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "7",
+					"pay": "63"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"27-12-2020": {
+			"actual": {
+				"Payroll": "435.5",
+				"Total": "435.5"
+			},
+			"day": "Sun",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"Amosh": {
+					"hours": "10.25",
+					"pay": "102.5"
+				},
+				"sherlin": {
+					"hours": "10",
+					"pay": "90"
+				},
+				"elizibith": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Mahmood": {
+					"hours": "8",
+					"pay": "72"
+				},
+				"Abby": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"28-12-2020": {
+			"actual": {
+				"Payroll": "303.5",
+				"Total": "303.5"
+			},
+			"day": "Mon",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "11",
+					"pay": "99"
+				},
+				"asus": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"judy": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Mahmood": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"29-12-2020": {
+			"actual": {
+				"Payroll": "392.5",
+				"Total": "392.5"
+			},
+			"day": "Tue",
+			"Payroll_details": {
+				"munazzar": {
+					"hours": "9",
+					"pay": "81"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"judy": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Nadia": {
+					"hours": "4",
+					"pay": "36"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		},
+		"30-12-2020": {
+			"actual": {
+				"Payroll": "408",
+				"Total": "408"
+			},
+			"day": "Wed",
+			"Payroll_details": {
+				"zoya": {
+					"hours": "5",
+					"pay": "42.5"
+				},
+				"munazzar": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Amosh": {
+					"hours": "12.25",
+					"pay": "122.5"
+				},
+				"sherlin": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"andreth": {
+					"hours": "5",
+					"pay": "45"
+				},
+				"Enrique": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Mahmood": {
+					"hours": "6",
+					"pay": "54"
+				},
+				"Monday": {
+					"hours": "0",
+					"pay": "0"
+				}
+			}
+		}
+	},
+	"expenses": [
+		"Payroll",
+		"Chicken",
+		"Coke",
+		"GORDON",
+		"Spice",
+		"Disposables",
+		"Rent",
+		"CC FEE",
+		"Utilities",
+		"Misc",
+		"Royalty",
+		"CPA",
+		"Phones - Internet",
+		"Electric",
+		"Natural Gas",
+		"Paneer",
+		"Cassava",
+		"Felafel",
+		"Organic Drinks",
+		"Aramark"
+	],
+	"schedule": {
+		"zoya": {
+			"Mon": "12-5",
+			"Tue": "OFF",
+			"Wed": "12-5",
+			"Thu": "OFF",
+			"Fri": "6-12",
+			"Sat": "6-12",
+			"Sun": "OFF"
+		},
+		"munazzar": {
+			"Mon": "12-11",
+			"Tue": "12-9",
+			"Wed": "12-5",
+			"Thu": "OFF",
+			"Fri": "12-12",
+			"Sat": "12-12",
+			"Sun": "12-10"
+		},
+		"Amosh": {
+			"Mon": "OFF",
+			"Tue": "10:45-11",
+			"Wed": "10:45-11",
+			"Thu": "10:45-10",
+			"Fri": "10:45-10",
+			"Sat": "10:45-12",
+			"Sun": "11:45-10"
+		},
+		"asus": {
+			"Mon": "6-11",
+			"Tue": "OFF",
+			"Wed": "OFF",
+			"Thu": "5-11",
+			"Fri": "5-12",
+			"Sat": "OFF",
+			"Sun": "OFF"
+		},
+		"judy": {
+			"Mon": "5-9",
+			"Tue": "5-10",
+			"Wed": "OFF",
+			"Thu": "5-10",
+			"Fri": "5-9",
+			"Sat": "OFF",
+			"Sun": "OFF"
+		},
+		"sherlin": {
+			"Mon": "OFF",
+			"Tue": "OFF",
+			"Wed": "5-10",
+			"Thu": "OFF",
+			"Fri": "5-10",
+			"Sat": "5-10",
+			"Sun": "12-10"
+		},
+		"elizibith": {
+			"Mon": "OFF",
+			"Tue": "OFF",
+			"Wed": "OFF",
+			"Thu": "12-8",
+			"Fri": "11-8",
+			"Sat": "11-8",
+			"Sun": "3-8"
+		},
+		"andreth": {
+			"Mon": "OFF",
+			"Tue": "5-11",
+			"Wed": "6-11",
+			"Thu": "OFF",
+			"Fri": "6-12",
+			"Sat": "6-12",
+			"Sun": "OFF"
+		},
+		"Nadia": {
+			"Mon": "OFF",
+			"Tue": "5-9",
+			"Wed": "OFF",
+			"Thu": "5-11",
+			"Fri": "6-11",
+			"Sat": "11-6",
+			"Sun": "OFF"
+		},
+		"Enrique": {
+			"Mon": "6-10",
+			"Tue": "5-11",
+			"Wed": "5-11",
+			"Thu": "5-11",
+			"Fri": "OFF",
+			"Sat": "OFF",
+			"Sun": "OFF"
+		},
+		"Mahmood": {
+			"Mon": "12-5",
+			"Tue": "OFF",
+			"Wed": "12-6",
+			"Thu": "12-6",
+			"Fri": "11-7",
+			"Sat": "OFF",
+			"Sun": "2-10"
+		},
+		"Abby": {
+			"Mon": "OFF",
+			"Tue": "OFF",
+			"Wed": "OFF",
+			"Thu": "5-9",
+			"Fri": "OFF",
+			"Sat": "OFF",
+			"Sun": "5-9"
+		},
+		"Monday": {
+			"1": "12-5"
+		}
+	},
+	"expected-exp": {
+		"2020": {
+			"0": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"5": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"4": {
+				"Payroll": "30000.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "96893.76"
+			},
+			"3": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"2": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"1": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"6": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"7": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"8": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"9": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"10": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			"11": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			}
+		},
+		"2019": {
+			"11": {
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			}
+		},
+		"2021": [
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			},
+			{
+				"Payroll": "25571.32",
+				"Chicken": "24374.57",
+				"Coke": "1850.78",
+				"GORDON": "8854.35",
+				"Spice": "5880.00",
+				"Disposables": "3289.43",
+				"Rent": "7900.00",
+				"CC FEE": "2929.25",
+				"Utilities": "1200.53",
+				"Misc'": "2471.53",
+				"Royalty": "5671.47",
+				"CPA": "225.00",
+				"Phones - Internet": "532.00",
+				"Electric": "532.28",
+				"Natural Gas": "136.25",
+				"Paneer": "209.00",
+				"Cassava": "220.00",
+				"Felafel": "185.00",
+				"Organic Drinks": "432.00",
+				"Total": "92464.76"
+			}
+		]
+	},
+	"users": {
+		"zoya": {
+			"name": "Zoya",
+			"pay": "8.5",
+			"role": "",
+			"phone": ""
+		},
+		"munazzar": {
+			"name": "Mohammed",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"Amosh": {
+			"name": "Amosh",
+			"pay": "10",
+			"role": "",
+			"phone": ""
+		},
+		"asus": {
+			"name": "Jesus",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"judy": {
+			"name": "Judy",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"sherlin": {
+			"name": "Sherlyn",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"elizibith": {
+			"name": "Elizabith",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"andreth": {
+			"name": "Nedret",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"Nadia": {
+			"name": "Nadia",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"Enrique": {
+			"name": "Enrique",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"Mahmood": {
+			"name": "Mahmood",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		},
+		"Abby": {
+			"name": "Abby",
+			"pay": "9",
+			"role": "",
+			"phone": ""
+		}
+	},
+	"inserted-data": {
+		"07-01-2020 to 07-02-2020": {
+			"Chicken": "450",
+			"Coke": "750",
+			"GORDON": "420"
+		},
+		"07-01-2020 to 07-31-2020": {
+			"Rent": "5598.02"
+		},
+		"06-30-2020 to 07-07-2020": {
+			"Disposables": "400"
+		},
+		"07-03-2020 to 07-05-2020": {
+			"Chicken": "756.80"
+		},
+		"07-06-2020 to 07-09-2020": {
+			"Chicken": "1142.31"
+		},
+		"07-10-2020 to 07-12-2020": {
+			"Chicken": "1428.02"
+		},
+		"09-23-2020 to 09-23-2020": {
+			"Coke": "500"
+		},
+		"12-05-2020 to 12-17-2020": []
+	}
+}
